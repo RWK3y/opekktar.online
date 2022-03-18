@@ -1,6 +1,6 @@
 ---
-title: Opekktar Online 
-description: Welcome 
+title: Opekktar Online
+description: Welcome
 background: "/images/celtpaganmoon.jpg"
-logo: "/images/hloyroundorig.webp"
+logo: "/images/icon.png"
 ---
